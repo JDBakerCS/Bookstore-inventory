@@ -1,0 +1,5 @@
+DiscountTier,MinSalesThreshold,MaxSalesThreshold,DiscountPercentage,Description
+CLEARANCE,0,2,30,Books with 0-2 monthly sales get 30% off
+SLOWMOVER,3,5,20,Books with 3-5 monthly sales get 20% off
+MODERATE,6,10,10,Books with 6-10 monthly sales get 10% off
+REGULAR,11,999,0,Books with good sales get no discount

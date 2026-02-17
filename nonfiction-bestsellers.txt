@@ -1,0 +1,99 @@
+ISBN,Title,Author,Year,Price,Quantity
+9780399590597,Killers of the Flower Moon,David Grann,2017,28.95,35
+9780385534246,Killers of the Flower Moon (Hardcover),David Grann,2017,32.50,28
+9780307742483,Killers of the Flower Moon (Paperback),David Grann,2018,17.00,42
+9780593655030,The Anxious Generation,Jonathan Haidt,2024,30.00,40
+9780241647660,The Anxious Generation (UK Edition),Jonathan Haidt,2024,28.99,12
+9780593444764,The Anxious Generation (Audiobook),Jonathan Haidt,2024,45.00,18
+9781982141882,Melania,Melania Trump,2024,35.00,32
+9780307591630,Greenlights,Matthew McConaughey,2020,30.00,45
+9780063213630,All the Sinners Bleed,S.A. Cosby,2023,28.99,28
+9780593490143,Tom Lake,Ann Patchett,2023,30.00,24
+9780735220201,Educated,Tara Westover,2018,28.00,38
+9780063297395,The Wager,David Grann,2023,30.00,30
+9781250762849,Crying in H Mart,Michelle Zauner,2021,26.99,26
+9780593536902,The Ministry of Time,Kaliane Bradley,2024,28.00,20
+9780593652886,Outlive,Peter Attia,2023,32.00,35
+9780593237465,The Body Keeps the Score,Bessel van der Kolk,2014,19.00,48
+9780593236598,Think Again,Adam Grant,2021,28.00,32
+9781476753188,Atomic Habits,James Clear,2018,27.00,50
+9780063297319,The Great Displacement,Jake Bittle,2023,30.00,18
+9780593652879,How to Know a Person,David Brooks,2023,30.00,25
+9780593493595,The Demon of Unrest,Erik Larson,2024,32.00,30
+9780593489345,Master Slave Husband Wife,Ilyon Woo,2023,30.00,22
+9780812968583,Sapiens,Yuval Noah Harari,2015,24.99,40
+9780063001022,The Creative Act,Rick Rubin,2023,32.00,25
+9781524763169,Becoming,Michelle Obama,2018,32.50,38
+9780593139134,The Splendid and the Vile,Erik Larson,2020,32.00,30
+9780593237441,Atlas of the Heart,Brené Brown,2021,30.00,35
+9780593230572,Breath,James Nestor,2020,28.00,28
+9780593138519,The Light We Carry,Michelle Obama,2022,32.50,32
+9780525658795,Crying in H Mart (Hardcover),Michelle Zauner,2021,26.95,24
+9780553496673,I Am Malala,Malala Yousafzai,2013,17.99,32
+9780062820175,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,26.99,45
+9781984801258,The Library Book,Susan Orlean,2018,28.00,20
+9780399589683,The Code Breaker,Walter Isaacson,2021,35.00,28
+9780399592553,Educated (Hardcover),Tara Westover,2018,28.00,35
+9780593540145,The Hero with a Thousand Faces,Joseph Campbell,1949,24.95,15
+9780399592522,Being Mortal,Atul Gawande,2014,26.00,18
+9780525512172,21 Lessons for the 21st Century,Yuval Noah Harari,2018,28.00,24
+9780307476463,Quiet,Susan Cain,2012,18.00,30
+9780062300546,The Untethered Soul,Michael A. Singer,2007,18.95,28
+9780593139141,The Bomber Mafia,Malcolm Gladwell,2021,27.00,25
+9780385348713,The Power of Habit,Charles Duhigg,2012,30.00,32
+9780593296318,The House of Broken Angels,Luis Alberto Urrea,2018,17.00,16
+9780062457714,The Hidden Life of Trees,Peter Wohlleben,2016,24.95,22
+9780743264747,The 7 Habits of Highly Effective People,Stephen R. Covey,2004,18.99,38
+9780812981605,The Power of Now,Eckhart Tolle,2004,17.00,42
+9781501124020,Shoe Dog,Phil Knight,2016,30.00,25
+9780062316097,Untamed,Glennon Doyle,2020,28.00,36
+9780316497541,The Anthropocene Reviewed,John Green,2021,28.00,24
+9780062468611,12 Rules for Life,Jordan B. Peterson,2018,25.99,30
+9780061733512,The Alchemist,Paulo Coelho,1988,16.99,45
+9780143127741,The Life-Changing Magic of Tidying Up,Marie Kondo,2014,16.99,28
+9780062457738,Everything is F*cked,Mark Manson,2019,26.99,32
+9780385349949,Originals,Adam Grant,2016,27.00,25
+9780062694867,Hidden Valley Road,Robert Kolker,2020,29.99,18
+9780062966742,The Moment of Lift,Melinda Gates,2019,26.99,22
+9780593652565,On Our Best Behavior,Elise Loehnen,2023,28.00,20
+9780063159983,The Myth of Normal,Gabor Maté,2022,30.00,26
+9780593300015,Finding Me,Viola Davis,2022,28.99,24
+9780525657743,In the Dream House,Carmen Maria Machado,2019,26.00,18
+9780812993547,Born a Crime,Trevor Noah,2016,28.00,35
+9780525560883,I'm Glad My Mom Died,Jennette McCurdy,2022,27.99,40
+9780593652503,Good Inside,Becky Kennedy,2022,28.00,28
+9780593652923,The Four Pivots,Shawn A. Ginwright,2022,26.99,15
+9780593543467,Notes on Grief,Chimamanda Ngozi Adichie,2021,16.00,22
+9780593652923,The End of Burnout,Jonathan Malesic,2022,27.00,20
+9780525656197,Four Thousand Weeks,Oliver Burkeman,2021,27.00,25
+9781476797717,The Gene,Siddhartha Mukherjee,2016,32.00,18
+9780593138212,How To Be an Antiracist,Ibram X. Kendi,2019,27.00,30
+9780525510277,A Promised Land,Barack Obama,2020,45.00,32
+9780593139141,Talking to Strangers,Malcolm Gladwell,2019,30.00,28
+9780399590504,Eat Pray Love,Elizabeth Gilbert,2006,17.00,24
+9780812979404,Wild,Cheryl Strayed,2012,16.95,28
+9780345472328,Hot Flat and Crowded,Thomas L. Friedman,2008,27.95,15
+9781400078394,The Black Swan,Nassim Nicholas Taleb,2007,18.00,20
+9780143038580,Guns Germs and Steel,Jared Diamond,1997,18.95,24
+9780525509288,Dopesick,Beth Macy,2018,28.00,18
+9780060959470,Fast Food Nation,Eric Schlosser,2001,15.99,16
+9780143127796,Capital in the Twenty-First Century,Thomas Piketty,2014,20.00,12
+9780307338402,Kitchen Confidential,Anthony Bourdain,2000,16.99,30
+9781451648539,Steve Jobs,Walter Isaacson,2011,35.00,25
+9780307408877,Blink,Malcolm Gladwell,2005,17.00,28
+9780593230251,Caste,Isabel Wilkerson,2020,32.00,26
+9780812982626,Just Mercy,Bryan Stevenson,2014,17.00,30
+9780062872968,Bad Blood,John Carreyrou,2018,27.99,22
+9780679763307,In Cold Blood,Truman Capote,1965,16.95,25
+9780812995824,Between the World and Me,Ta-Nehisi Coates,2015,26.00,28
+9780307352149,Quiet (Hardcover),Susan Cain,2012,28.00,24
+9780307352156,Outliers,Malcolm Gladwell,2008,27.99,32
+9780316800730,What Happened to You?,Bruce D. Perry,2021,28.00,25
+9780593540145,The Psychology of Money,Morgan Housel,2020,19.99,35
+9780593465271,When Breath Becomes Air,Paul Kalanithi,2016,26.00,28
+9780803226616,A Love Letter to Black People,Frederick Joseph,2024,24.95,20
+9780593489482,The Price of Time,Edward Chancellor,2022,32.00,15
+9780593321447,How to Stay Sane in an Age of Division,Elif Shafak,2020,12.95,22
+9780802157065,Strangers to Ourselves,Rachel Aviv,2022,28.00,18
+9780593534328,Under a White Sky,Elizabeth Kolbert,2021,28.00,20
+9780593652992,Drawdown,Paul Hawken,2017,25.00,15

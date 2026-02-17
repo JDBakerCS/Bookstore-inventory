@@ -1,0 +1,79 @@
+ISBN,Title,Author,Year,Price,Quantity
+9781649374042,Fourth Wing,Rebecca Yarros,2023,26.99,35
+9781649376268,Iron Flame,Rebecca Yarros,2023,29.99,42
+9781649376374,Star Bringer,Rebecca Yarros,2024,29.99,30
+9781538724736,The Women,Kristin Hannah,2024,30.00,28
+9781982173180,James,Percival Everett,2024,28.00,15
+9780593243989,House of Earth and Blood,Sarah J. Maas,2020,28.00,20
+9780063332106,Onyx Storm,Rebecca Yarros,2024,29.99,25
+9781250178633,The Housemaid,Freida McFadden,2022,17.99,32
+9781250178657,The Housemaid's Secret,Freida McFadden,2023,17.99,30
+9781501110375,It Ends with Us,Colleen Hoover,2016,16.99,45
+9781668001226,It Starts with Us,Colleen Hoover,2022,17.99,40
+9780316572583,All Fours,Miranda July,2024,29.00,12
+9780593654583,Good Material,Dolly Alderton,2024,28.00,14
+9780593653548,Martyr!,Kaveh Akbar,2024,28.00,10
+9780375400690,You Dreamed of Empires,Álvaro Enrigue,2024,26.00,8
+9780062406644,The Handmaid's Tale,Margaret Atwood,1985,15.95,36
+9780385547345,The Invisible Life of Addie LaRue,V.E. Schwab,2020,26.99,22
+9780525559474,The Midnight Library,Matt Haig,2020,26.00,24
+9780316485616,Verity,Colleen Hoover,2021,16.99,38
+9781668016138,Too Late,Colleen Hoover,2023,17.99,28
+9781455559824,Before We Were Strangers,Renée Carlino,2018,15.99,15
+9781476753188,Ugly Love,Colleen Hoover,2014,16.99,32
+9781501110368,November 9,Colleen Hoover,2015,16.99,25
+9780593201331,Remarkably Bright Creatures,Shelby Van Pelt,2022,27.99,18
+9780645537468,Lessons in Chemistry,Bonnie Garmus,2022,29.00,26
+9780593243732,A Court of Thorns and Roses,Sarah J. Maas,2015,18.00,40
+9781635577808,A Court of Mist and Fury,Sarah J. Maas,2016,18.00,35
+9781635575583,A Court of Wings and Ruin,Sarah J. Maas,2017,18.00,32
+9781635575620,A Court of Frost and Starlight,Sarah J. Maas,2018,16.00,30
+9781635577723,A Court of Silver Flames,Sarah J. Maas,2021,28.00,34
+9781250278197,The Housemaid's Daughter,Freida McFadden,2024,17.99,28
+9781984806758,The Invisible Life of Addie LaRue,V.E. Schwab,2021,19.99,20
+9781250220257,The Silent Patient,Alex Michaelides,2019,26.99,22
+9781250301697,The Maidens,Alex Michaelides,2021,27.99,18
+9781501142970,The Last Thing He Told Me,Laura Dave,2021,27.00,15
+9780593596982,Demon Copperhead,Barbara Kingsolver,2022,32.00,12
+9781524798642,Where the Crawdads Sing,Delia Owens,2018,27.00,24
+9780062976581,Daisy Jones & The Six,Taylor Jenkins Reid,2019,17.00,20
+9781501161933,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,2017,17.00,28
+9781501110349,Reminders of Him,Colleen Hoover,2022,15.95,30
+9781538742570,The Investigators,John Grisham,2024,29.95,25
+9781538753927,The Exchange,John Grisham,2023,29.95,20
+9780525559498,The Thursday Murder Club,Richard Osman,2020,26.00,18
+9781984880635,The Last Thing He Told Me,Laura Dave,2021,17.00,15
+9781472223821,The Flatshare,Beth O'Leary,2019,15.99,14
+9781250304452,Hook Line and Sinker,Tessa Bailey,2022,16.99,20
+9781335425782,The Summer I Turned Pretty,Jenny Han,2022,12.99,25
+9781338635171,The Ballad of Songbirds and Snakes,Suzanne Collins,2020,27.99,15
+9780593441275,Tomorrow and Tomorrow and Tomorrow,Gabrielle Zevin,2022,28.00,18
+9780385544382,Cloud Cuckoo Land,Anthony Doerr,2021,30.00,12
+9781250217288,Project Hail Mary,Andy Weir,2021,29.00,16
+9781789094343,Mexican Gothic,Silvia Moreno-Garcia,2020,16.99,14
+9780593421215,The Maid,Nita Prose,2022,27.00,18
+9780063215689,The Guest,Emma Cline,2023,29.99,12
+9780063204157,North Woods,Daniel Mason,2023,30.00,10
+9780593534724,Trust,Hernan Diaz,2022,28.00,8
+9780593422946,Klara and the Sun,Kazuo Ishiguro,2021,28.00,15
+9780593190005,City of Refuge,Cynthia Carr,2024,30.00,10
+9781984821843,Pachinko,Min Jin Lee,2017,17.00,20
+9781538724736,The Four Winds,Kristin Hannah,2021,28.99,15
+9780062671127,The Song of Achilles,Madeline Miller,2012,16.99,25
+9780316556347,Circe,Madeline Miller,2018,29.00,22
+9780385547864,The Candy House,Jennifer Egan,2022,28.00,12
+9780063337091,Hello Beautiful,Ann Napolitano,2023,29.00,15
+9780525559474,The Midnight Library,Matt Haig,2020,26.00,18
+9781501133480,The Silent Wife,A.S.A. Harrison,2013,16.00,14
+9780593237892,Our Missing Hearts,Celeste Ng,2022,29.00,15
+9780143110632,Little Fires Everywhere,Celeste Ng,2017,17.00,20
+9780593355166,The Silent Sisters,Robert Dugoni,2024,28.99,14
+9780349437019,Fourth Wing (Paperback),Rebecca Yarros,2024,17.99,30
+9780062316097,Go Set a Watchman,Harper Lee,2015,27.99,10
+9780062409867,The Dutch House,Ann Patchett,2019,27.99,12
+9780593538807,Empty Cups,Elaine Castillo,2024,28.00,10
+9781501168680,Find Me,André Aciman,2019,17.00,12
+9780593244708,The Mountain in the Sea,Ray Nayler,2022,28.00,10
+9780393868851,Trust,Hernan Diaz,2022,17.95,8
+9780593654477,Wellness,Nathan Hill,2023,30.00,12
+9780593536902,The Ministry of Time,Kaliane Bradley,2024,28.00,10
