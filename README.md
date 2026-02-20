@@ -11,6 +11,12 @@ Generates weekly/monthly sales summaries
 
 Modular design (Book, Catalog, Sales, Discount rules)
 
+Design Highlights
+-Used std::map for O(1) key-based catalog lookup
+-Separated discount logic into dedicated rule class
+-Implemented modular multi-file architecture
+
+
 Tech
 C++ • STL (map, vector) • File I/O • OOP
 
@@ -41,4 +47,10 @@ Discount rules: 4
 12. Update Stock From Weekly Sales
 13. Reload Data Files
 14. Exit
-Enter choice:               
+Enter choice: 1
+
+--- Inventory Statistics ---
+Total catalog entries: 265
+Total units in stock: 5768
+Total inventory value: $118151
+              
