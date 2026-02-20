@@ -1,75 +1,44 @@
 Bookstore Inventory System (C++)
-Overview
+Console app that loads book catalogs + discount rules from files, processes sales records, and outputs structured sales reporting using STL containers.
 
-This project is a console-based bookstore inventory and sales management system written in C++.
-It simulates a real-world retail bookstore environment by managing catalog data, processing sales records, and applying discount rules using STL containers.
+Key Features
 
-The program demonstrates practical use of:
+Loads catalog + rules from .txt files
 
-std::map for structured catalog organization
+Applies rule-based discounts during sales processing
 
-std::vector for dynamic data storage
+Generates weekly/monthly sales summaries
 
-File I/O for reading and processing external datasets
+Modular design (Book, Catalog, Sales, Discount rules)
 
-Object-oriented programming with multiple header and implementation files
+Tech
+C++ • STL (map, vector) • File I/O • OOP
 
-Features
-
- Load bookstore catalog from text files
-
- Apply configurable discount rules
-
- Process weekly and monthly sales data
-
- Track bestselling and contemporary book data
-
- Organized using modular class design
-
-Technologies Used
-
-C++
-
-STL (Standard Template Library)
-
-File I/O
-
-Object-Oriented Programming principles
-
-File Structure
-Book9.cpp / Book9.h
-BookCatalog.cpp / BookCatalog.h
-DiscountRule.h
-SalesRecord.h
-main.cpp
-
-Data files:
-
-contemporary-books.txt
-discount-rules.txt
-monthly-sales-history.txt
-nonfiction-bestsellers.txt
-sales-data-weekly.txt
-
-How to Compile
-
-Using g++:
+Build & Run
 
 g++ *.cpp -o bookstore
 ./bookstore
-Learning Objectives
 
-This project was developed as part of a Computer Science coursework assignment and demonstrates:
+Output Sample:
 
-Efficient data organization using maps
+Books loaded: 265
+Weekly sales records: 40
+Monthly sales entries: 16
+Discount rules: 4
 
-Rule-based business logic implementation
-
-Structured multi-file C++ application design
-
-Parsing and processing structured data from text files
-
-Author
-
-James Dalton Baker
-Computer Science Student
+===== Bookstore Analytics System =====
+1. Display Inventory Statistics
+2. Find Book by ISBN
+3. Find Books by Author
+4. Display Books Sorted by Price
+5. Display Books Sorted by Title
+6. Display Books Sorted by Year
+7. Display Sales Analysis (Best + Slowest Seller)
+8. Show Low Stock Alert (< 10 units)
+9. Apply Sales-Based Discounts
+10. Show Bestseller Report
+11. Show Slow Seller Report
+12. Update Stock From Weekly Sales
+13. Reload Data Files
+14. Exit
+Enter choice:               
